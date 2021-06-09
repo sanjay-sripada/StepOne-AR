@@ -1,0 +1,19 @@
+{
+  "name": "stepone-ar",
+  "version": "1.0.0",
+  "description": "marked based ar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanisanjay/StepOne-AR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanisanjay/StepOne-AR/issues"
+  },
+  "homepage": "https://github.com/nanisanjay/StepOne-AR#readme"
+}

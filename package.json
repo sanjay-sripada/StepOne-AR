@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nanisanjay/StepOne-AR/issues"
   },
-  "homepage": "https://github.com/nanisanjay/StepOne-AR#readme"
+  "homepage": "https://github.com/nanisanjay/StepOne-AR#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
